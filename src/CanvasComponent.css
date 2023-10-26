@@ -1,0 +1,97 @@
+/* Reset some default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  /* Styling for the whiteboard container */
+  .whiteboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for the header */
+  .whiteboard-header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .whiteboard-header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  /* Styling for the color picker */
+  .color-picker {
+    display: flex;
+    margin-right: 20px;
+  }
+  
+  .color-button {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #333;
+    cursor: pointer;
+    margin: 0 10px;
+    transition: border 0.2s;
+  }
+  
+  /* Styling for selected color button */
+  .selected {
+    border: 2px solid #fff;
+  }
+  
+  /* Styling for the buttons */
+  .whiteboard-header button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s;
+  }
+  
+  /* Styling for the different cursor modes */
+  .whiteboard-canvas {
+    border: 1px solid #ccc;
+    position: relative;
+    cursor: crosshair;
+  }
+  
+  .draw-mode {
+    cursor: url('https://e7.pngegg.com/pngimages/351/295/png-clipart-computer-icons-ballpoint-pen-cursor-pen-pencil-black.png') 8 0, crosshair;
+  }
+  
+  .erase-mode {
+    cursor: url('https://e7.pngegg.com/pngimages/351/295/png-clipart-computer-icons-ballpoint-pen-cursor-pen-pencil-black.png') 8 0, crosshair;
+  }
+  
+  /* Styling for the color picker tool */
+  .color-picker-tool {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .color-picker-tool input[type="color"] {
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  /* Additional styling can be added here as needed */
+  
