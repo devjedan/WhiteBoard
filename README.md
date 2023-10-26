@@ -1,4 +1,7 @@
 # Canvas
+![My Image](Screenshot 2023-10-27 023416.png)
+![My Image](https://github.com/your-username/your-repo/blob/main/images/your-image.png)
+![My Image](https://github.com/your-username/your-repo/blob/main/images/your-image.png)
 
 
 In the project directory, you can run:
