@@ -1,7 +1,5 @@
 # Canvas
-![My Image]([https://github.com/devjedan/WhiteBoard/raw/main/images/Screenshot 2023-10-27 023416.png](https://github.com/devjedan/WhiteBoard/blob/97a9750c4fd2e3d02bbf10ed9dc400bbbeec35af/Screenshot%202023-10-27%20023416.png))
-![My Image](https://github.com/devjedan/WhiteBoard/raw/main/images/Screenshot 2023-10-27 023455.png)
-![My Image](https://github.com/devjedan/WhiteBoard/raw/main/images/Screenshot 2023-10-27 023546.png)
+![home](https://github.com/devjedan/WhiteBoard/blob/97a9750c4fd2e3d02bbf10ed9dc400bbbeec35af/Screenshot%202023-10-27%20023416.png)
 
 
 
